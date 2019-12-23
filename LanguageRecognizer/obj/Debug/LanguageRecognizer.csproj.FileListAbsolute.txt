@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\LanguageRecognizer\LanguageRecognizer\bin\Debug\LanguageRecognizer.exe.config
+C:\Users\Acer\source\repos\LanguageRecognizer\LanguageRecognizer\bin\Debug\LanguageRecognizer.exe
+C:\Users\Acer\source\repos\LanguageRecognizer\LanguageRecognizer\bin\Debug\LanguageRecognizer.pdb
+C:\Users\Acer\source\repos\LanguageRecognizer\LanguageRecognizer\obj\Debug\LanguageRecognizer.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\LanguageRecognizer\LanguageRecognizer\obj\Debug\LanguageRecognizer.exe
+C:\Users\Acer\source\repos\LanguageRecognizer\LanguageRecognizer\obj\Debug\LanguageRecognizer.pdb
